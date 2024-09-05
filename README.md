@@ -43,6 +43,9 @@ This project is a simple, text-based Tic-Tac-Toe game implemented in C++. The ga
 - After the game ends, players can choose to play again or exit.
 
 ## Outputs
-![Game Output]("C:\Users\abhin\Pictures\Screenshots\Screenshot 2024-09-05 100500.png)
+![Screenshot 2024-09-05 100500](https://github.com/user-attachments/assets/ed54d7cf-2271-49b9-b507-7e4ac0e5dd4e)
+![Screenshot 2024-09-05 100517](https://github.com/user-attachments/assets/f69bdd24-6973-4a55-813d-6056788b22d1)
+
+
 
 
